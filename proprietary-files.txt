@@ -595,6 +595,7 @@ vendor/etc/camera/xiaomi/thirdpartysnapshot.json
 vendor/etc/camera/xiaomiSceneDetection.xml
 vendor/etc/init/vendor.qti.camera.provider@2.7-service_64.rc
 vendor/etc/vintf/manifest/vendor.xiaomi.hardware.quickcamera@1.0-service.xml
+vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/components/com.bots.node.vendortagwrite.so
 vendor/lib64/camera/components/com.mi.node.AIIE.so
 vendor/lib64/camera/components/com.mi.node.aiasd.so
@@ -992,7 +993,6 @@ vendor/lib64/camera/com.qti.sensormodule.thor_ofilm_ov32c_front.bin
 vendor/lib64/camera/com.qti.sensormodule.thor_semco_imx586_tele5x.bin
 vendor/lib64/camera/com.qti.sensormodule.thor_semco_imx586_ultra.bin
 vendor/lib64/camera/com.qti.sensormodule.thor_semco_imx989_wide.bin
-vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/com.qti.tuned.thor_ofilm_ov32c_front.bin
 vendor/lib64/camera/com.qti.tuned.thor_semco_imx586_tele5x.bin
 vendor/lib64/camera/com.qti.tuned.thor_semco_imx586_ultra.bin
