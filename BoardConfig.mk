@@ -4,6 +4,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# Security patch level
+VENDOR_SECURITY_PATCH := 2025-08-01
+
 # Inherit from xiaomi sm8450-common
 include device/xiaomi/sm8450-common/BoardConfigCommon.mk
 
