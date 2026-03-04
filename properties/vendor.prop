@@ -1,6 +1,8 @@
 # Fingerprint
 persist.vendor.fingerprint.type=udfps_optical
 persist.vendor.fingerprint.sensor_location=720|2480|134
+persist.vendor.sys.fp.fod.location.X_Y=586,2346
+persist.vendor.sys.fp.fod.size.width_height=267,267
 
 # Sensors
 ro.vendor.sensors.notifier.light_sensors.primary=5
