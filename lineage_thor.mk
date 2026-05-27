@@ -17,8 +17,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 2203121C
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="thor-user 15 AQ3A.250226.002 OS3.0.5.0.VLACNXM release-keys" \
-    BuildFingerprint=Xiaomi/thor/thor:15/AQ3A.250226.002/OS3.0.5.0.VLACNXM:user/release-keys \
+    BuildDesc="thor-user 15 AQ3A.250226.002 OS3.0.6.0.VLACNXM release-keys" \
+    BuildFingerprint=Xiaomi/thor/thor:15/AQ3A.250226.002/OS3.0.6.0.VLACNXM:user/release-keys \
     DeviceProduct=thor \
     SystemName=thor
 
